@@ -1,0 +1,52 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz</string>
+    <!-- Header for the Quiz before questions -->
+    <string name="quiz_header">Quiz Questions</string>
+    <!-- Hintro and description to Quiz -->
+    <string name="description_quiz">Ready for the quiz? I know you are but before you begin, here are some ground rules. There are 4 questions, you must answer all 4 questions correctly to pass the test. Press submit below to see the ansser and your results. </string>
+
+
+    <!-- Question 1 -->
+    <string name="question_1">1. In the 1988 movie blah blah what town was abc and G from?</string>
+   <!-- Question 2 -->
+    <string name="question_2">2.  In THE MARTIAN (2015) what branch of science was Mark Watney representing?  </string>
+    <!-- Question 2 Ansswer 1 -->
+    <string name="Q2_answer1">  ABC  </string>
+    <!-- Question 2 Answer 2 -->
+    <string name="Q2_answer2"> EFG  </string>
+    <!-- Question 3 -->
+
+    <string name="question_3">3.Quiz Questions</string>
+    <!-- Question 3 Answer option 1 -->
+    <string name="q3_o1">  Option 1  </string>
+    <!-- Question 3 Answer option 2 -->
+    <string name="q3_o2">  Option 2  </string>
+    <!-- Question 3 Answer option 3 -->
+    <string name="q3_o3">  Option 3  </string>
+    <!-- Question 3 Answer option 4 -->
+    <string name="q3_o4">  Option 4  </string>
+
+    <!-- Question 4 -->
+    <string name="question_4">4. In the space below please enter blah blah </string>
+
+
+
+    <!-- Question 5 -->
+    <string name="question_5">Quiz Questions</string>
+    <!-- Question 6 -->
+    <string name="question_6">Quiz Questions</string>
+    <!-- Question 7 -->
+    <string name="question_7">Quiz Questions</string>
+    <!-- Header for the # of cups -->
+    <string name="quantity">Quantity</string>
+    <!-- Thank you message for the order Summary. Will display in body of email. No Char Limit -->
+    <string name="thank_you">Thank you!</string>
+    <!-- Name of Client in Order Summary. Will display in body of email. No Char Limit
+     It will be shown in the format of "Name: Amy" where amy is the user's Name.-->
+    <string name="order_summary_name">Name: <xliff:g example="Amy" id="name">%s</xliff:g></string>
+
+</resources>
+
+
+
+
